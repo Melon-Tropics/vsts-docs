@@ -2431,7 +2431,7 @@ Oauth 2.0 provides safe, secure access to your resources like work items, source
 
 
 <p><b>Configure Features Wizard</b></p>
-<p>Use the Configure Features Wizard to <a href="../reference/configure-features-after-upgrade.md" data-raw-source="[configure team projects after a TFS upgrade to access new features](../reference/configure-features-after-upgrade.md)">configure team projects after a TFS upgrade to access new features</a>.  </p>
+<p>Use the Configure Features Wizard to <a href="/previous-versions/azure/devops/reference/upgrade/configure-features-after-upgrade" data-raw-source="[configure team projects after a TFS upgrade to access new features](/previous-versions/azure/devops/reference/upgrade/configure-features-after-upgrade)">configure team projects after a TFS upgrade to access new features</a>.  </p>
 
 </td>
 <td width="33%">
@@ -2498,7 +2498,7 @@ Oauth 2.0 provides safe, secure access to your resources like work items, source
 <p>You customize a project defined on an on-premises TFS by <a href="../reference/customize-work.md" data-raw-source="[modifying definition files for work item types or process configuration, or changing field attributes](../reference/customize-work.md)">modifying definition files for work item types or process configuration, or changing field attributes</a>.  </p>
 
 <p><b>Update a project after an upgrade (TFS)</b></p>
-<p>Some features added when you upgrade your on-premises application server may require you to <a href="../reference/configure-features-after-upgrade.md" data-raw-source="[configure features to access them](../reference/configure-features-after-upgrade.md)">configure features to access them</a>. </p>
+<p>Some features added when you upgrade your on-premises application server may require you to <a href="/previous-versions/azure/devops/reference/upgrade/configure-features-after-upgrade" data-raw-source="[configure features to access them](/previous-versions/azure/devops/reference/upgrade/configure-features-after-upgrade)">configure features to access them</a>. </p>
 
 
 <p><b>Upload reports (TFS) </b></p>
@@ -2575,7 +2575,7 @@ Oauth 2.0 provides safe, secure access to your resources like work items, source
 
 
 <p><b>Team rooms</b></p>
-<p>Team rooms, like chat rooms, provide teams with a <a href="../notifications/collaborate-in-a-team-room.md" data-raw-source="[space to discuss work in progress, ask questions, share status, and clarify issues](../notifications/collaborate-in-a-team-room.md)">space to discuss work in progress, ask questions, share status, and clarify issues</a> that arise. Use team rooms to foster and capture communication among team members, both near and far.</p>
+<p>Team rooms, like chat rooms, provide teams with a <a href="/previous-versions/azure/devops/notifications/collaborate-in-a-team-room" data-raw-source="[space to discuss work in progress, ask questions, share status, and clarify issues](/previous-versions/azure/devops/notifications/collaborate-in-a-team-room)">space to discuss work in progress, ask questions, share status, and clarify issues</a> that arise. Use team rooms to foster and capture communication among team members, both near and far.</p>
 
 
 <p><b>Team groups</b></p>
